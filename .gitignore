@@ -1,0 +1,56 @@
+# 忽略系统文件
+.DS_Store
+Thumbs.db
+*.log
+
+# 忽略用户配置文件
+*.bak
+*.swp
+*.tmp
+*.old
+
+# 忽略 IDE 和编辑器配置
+.vscode/
+.idea/
+*.code-workspace
+
+# 忽略 Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+
+# 忽略环境文件
+.env
+*.env
+
+# 忽略其他不必要的文件和目录
+*.dat
+*.blf
+*.regtrans-ms
+*.log
+*.ini
+*.json
+*.history
+*.repl_history
+*.ssh/
+*.streamlit/
+*.android/
+*.leigod/
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Intel/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+WPS Cloud Files/
+WPSDrive/
+recipe-recommendation-backend/
+static/
